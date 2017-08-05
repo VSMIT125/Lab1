@@ -1,4 +1,4 @@
-/*  Program to print part of Old MacDonald
+/*  Program to print part of a song
  *  Name:
  *  Date:
  */
@@ -7,8 +7,8 @@
 
 int main(void)
 {
-    printf("Old MacDonald had a farm ");
-    printf("Ee i ee i o \n");
+    printf("Give me land. lots of land");
+    printf("And the starry skies above ...\n");
     return 0;
-    
 }
+
